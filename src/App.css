@@ -23,11 +23,11 @@ body {
 
 #master-blaster {
   height: 400px;
-  animation: blast 10s infinite ease-in-out;
+  animation: blast 5s infinite ease-in-out;
 }
 
 #masters-domicile {
-  animation: Teeter-Totter 10s infinite ease-in-out;
+  animation: Teeter-Totter 5s infinite ease-in-out;
 }
 
 .App-header {
